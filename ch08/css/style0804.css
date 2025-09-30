@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li {
+    width: 100px;
+    height: 40px;
+    border: 1px solid #222;
+    text-align: center;
+    line-height: 40px;
+    display: inline-block;
+}
+.top_menu{
+    background-color: aqua;
+    padding: 10px;
+    width: 500px;
+    top: 10px;
+    position: absolute;
+}
